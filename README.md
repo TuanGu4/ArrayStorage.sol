@@ -4,3 +4,4 @@ Fix minor bug
 Update state variable
 Fix logic error
 Improve naming consistency
+Add comments for clarity
