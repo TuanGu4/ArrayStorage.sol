@@ -5,3 +5,4 @@ Update state variable
 Fix logic error
 Improve naming consistency
 Add comments for clarity
+Simplify logic flow
