@@ -6,3 +6,4 @@ Fix logic error
 Improve naming consistency
 Add comments for clarity
 Simplify logic flow
+Fix edge scenario
